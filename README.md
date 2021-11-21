@@ -17,4 +17,3 @@ getopts opsting varname
 옵션에는 short 옵션과 long 옵션이 있는데 getopts 명령은 short 옵션을 처리합니다.
 
 표준입력으로 값을 받아 awk 스크립트를 통해 원하는 표준출력을 내보낼 수 있다. awk는 1977년에 AT&T 연구소의 Alfred V. Aho, Peter J. Weinverger, Brian W. Kernighan 세 사람이 만들었다. awk라는 이름도 세 사람 이름의 앞 글자이다. 이후 1986년 Paul Rubin과 Jay Fenlason이 GNU 버전의 awk를 만들어서 리눅스에서 사용했다.
-[네이버 지식백과] awk (유닉스 리눅스 명령어 사전, 2010. 11. 30., 우종경, 박종오)
